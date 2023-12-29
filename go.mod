@@ -1,3 +1,3 @@
-module github.com/broadcastervc/ndigo
+module github.com/Toshiba01/ndigo
 
 go 1.18

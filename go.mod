@@ -1,3 +1,3 @@
-module github.com/Toshiba01/ndigo
+module github.com/toshiba01/ndigo
 
 go 1.18
